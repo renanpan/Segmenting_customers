@@ -1,6 +1,6 @@
 # Customer Segmentation Project
 
-All the information and analyses carried out are available in the Segmentando_clientes file, which can be opened in Jupyter Notebook.
+All the information and analyses carried out are available in the Segmenting_customers file, which can be opened in Jupyter Notebook.
 
 In this project I covered different topics seen throughout the 7 months of the data analysis bootcamp. Among them I can highlight:
 - Data cleaning and exploratory data analysis;
